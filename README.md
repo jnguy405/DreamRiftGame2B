@@ -1,0 +1,7 @@
+**CMPM120 Game 2(b): 🛸 Gallery shooter implementation**
+
+Via this implementation, you will combine together many different Phaser and JavaScript capabilities which you have so far learned in isolation, including input, movement along a path, global/class/local scoped variables, grouping similar game objects (arrays/groups), collision detection, creating visual game assets, putting text on screen, and more.
+
+**🌟Dream Rift🌟**
+
+In Dream Rift, you play as a dream agent patrolling the Lulla-land which is a pastel-palette dream realm thrown into chaos by a mysterious rift leaking nightmares. Whimsical alien creatures have become trapped in loops of restless slumber. What were once serene dreamlands, turned into zones of confusion and unrest. Armed with a Dream Zapper, you move linearly left and right across the bottom of the screen while firing sleep stars to gently return these creatures to a  peaceful sleep. Enemies arrive in waves, each with unique patterns and behaviors. Some emit bad dream clouds that sap your dream energy (health). The objective is to clear each wave of enemies by hitting them with sleep stars, which transform them from chaotic, hostile forms into peaceful, sleeping versions. Clear waves, move for a high score, and journey deeper into the dream world to find the source of the rift and restore harmony to the realm.

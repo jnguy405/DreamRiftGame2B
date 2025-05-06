@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #ffe4fdff;
+    background: url('assets/dreamriftouterbackground.png'); 
+    overflow: hidden;
+}
+  
+#phaser-game {
+    width: 100%;
+    height: 100%;
+}
+
+#phaser-game canvas {
+    border: 2px solid #fff;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
